@@ -18,7 +18,7 @@ AI-driven Virtual Reality Math Lab for real-time **field simulation, physics int
 **We are currently setting up the AI-Powered VR Math Lab.** Stay tuned for installation steps!  
 
 ## 🛠 Contributing  
-Want to improve this project? Check out [`docs/contribution.md`](docs/contribution.md)!  
+Want to improve this project? Check out [`docs/contribution.md`](CONTRIBUTING.md)!  
 
 ## 🛡 License  
 This project is licensed under the **MIT License**.  
