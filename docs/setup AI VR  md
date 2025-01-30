@@ -1,0 +1,25 @@
+# 📖 Setup Guide: AI-Powered VR Math Lab  
+🚀 This guide will help developers install and run the VR Math Lab.
+
+---
+
+## **1️⃣ Prerequisites: What You Need**  
+To run the VR Math Lab, you will need:  
+
+### **🖥 Software & Tools**
+✅ **Python 3.8+** (for AI WebSocket server)  
+✅ **Unity 2021+** (for VR client)  
+✅ **Git** (to clone the repository)  
+
+### **🕶 Hardware**
+✅ **VR Headset** (Oculus Quest, HTC Vive, or WebXR-supported browser)  
+✅ **PC with a Graphics Card** (for Unity VR rendering)
+
+---
+
+## **2️⃣ How to Install & Run the VR Math Lab**  
+
+### **📌 Step 1: Clone the Repository**
+```sh
+git clone https://github.com/gatanegro/VR-Math-Lab.git
+cd VR-Math-Lab
